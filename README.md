@@ -48,6 +48,13 @@ This workspace contains Python projects organized by weeks. Each week focuses on
 
 ---
 
+### Week 6
+- **Topics:** Machine Learning basics and predictive modeling.
+- **Key Files:**
+  - `ml2markprediction.py`: A script for predicting marks using machine learning models.
+
+---
+
 ## How to Use
 1. Navigate to the respective week folder to explore the scripts.
 2. Run Python scripts using the command:
